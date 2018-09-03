@@ -41,3 +41,4 @@ def sum_array(array)
     accumulator + element 
   end
 end
+
