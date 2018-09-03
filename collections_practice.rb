@@ -29,3 +29,6 @@ def kesha_maker(array)
   end
   arrayd
 end
+
+def find_a(array)
+end 
